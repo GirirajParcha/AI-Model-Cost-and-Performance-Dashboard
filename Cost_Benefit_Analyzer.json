@@ -1,0 +1,66 @@
+[
+  {
+    "Model Name": "GPT-4 Turbo",
+    "Input Cost (per 1k tokens)": "$0.01",
+    "Output Cost (per 1k tokens)": "$0.03",
+    "Max Tokens": 128000,
+    "Speed (tokens/sec)": "~100",
+    "Release Date": "11/1/2023"
+  },
+  {
+    "Model Name": "GPT-4",
+    "Input Cost (per 1k tokens)": "$0.03",
+    "Output Cost (per 1k tokens)": "$0.06",
+    "Max Tokens": 8192,
+    "Speed (tokens/sec)": "~50",
+    "Release Date": "3/1/2023"
+  },
+  {
+    "Model Name": "GPT-3.5 Turbo",
+    "Input Cost (per 1k tokens)": "$0.0015",
+    "Output Cost (per 1k tokens)": "$0.002",
+    "Max Tokens": 4096,
+    "Speed (tokens/sec)": "~150",
+    "Release Date": "3/1/2022"
+  },
+  {
+    "Model Name": "Claude 2.1",
+    "Input Cost (per 1k tokens)": "$0.008",
+    "Output Cost (per 1k tokens)": "$0.024",
+    "Max Tokens": 200000,
+    "Speed (tokens/sec)": "~80",
+    "Release Date": "11/1/2023"
+  },
+  {
+    "Model Name": "Claude Instant",
+    "Input Cost (per 1k tokens)": "$0.00163",
+    "Output Cost (per 1k tokens)": "$0.00551",
+    "Max Tokens": 100000,
+    "Speed (tokens/sec)": "~120",
+    "Release Date": "11/1/2023"
+  },
+  {
+    "Model Name": "Gemini Pro",
+    "Input Cost (per 1k tokens)": "$0.0005",
+    "Output Cost (per 1k tokens)": "$0.0015",
+    "Max Tokens": 32000,
+    "Speed (tokens/sec)": "~200",
+    "Release Date": "12/1/2023"
+  },
+  {
+    "Model Name": "Mistral 7B",
+    "Input Cost (per 1k tokens)": "$0.0002",
+    "Output Cost (per 1k tokens)": "$0.0006",
+    "Max Tokens": 8000,
+    "Speed (tokens/sec)": "~300",
+    "Release Date": "9/1/2023"
+  },
+  {
+    "Model Name": "Mixtral 8x7B",
+    "Input Cost (per 1k tokens)": "$0.0006",
+    "Output Cost (per 1k tokens)": "$0.0018",
+    "Max Tokens": 32000,
+    "Speed (tokens/sec)": "~250",
+    "Release Date": "12/1/2023"
+  }
+]

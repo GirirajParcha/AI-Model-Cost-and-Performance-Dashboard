@@ -1,0 +1,9 @@
+Model Name, Input Cost (per 1k tokens), Output Cost (per 1k tokens), Max Tokens, Speed (tokens/sec), Release Date
+GPT-4 Turbo,$0.01 ,$0.03 ,128000,~100,11/1/2023
+GPT-4,$0.03 ,$0.06 ,"8,192",~50,23-Mar
+GPT-3.5 Turbo,$0.00 ,$0.00 ,"4,096",~150,22-Mar
+Claude 2.1,$0.01 ,$0.02 ,"200,000",~80,23-Nov
+Claude Instant,$0.00 ,$0.01 ,"100,000",~120,23-Nov
+Gemini Pro,$0.00 ,$0.00 ,"32,000",~200,23-Dec
+Mistral 7B,$0.00 ,$0.00 ,"8,000",~300,23-Sep
+Mixtral 8x7B,$0.00 ,$0.00 ,"32,000",~250,23-Dec
